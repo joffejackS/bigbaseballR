@@ -1,13 +1,13 @@
-Package: bigballR
+Package: bigbaseballR
 Type: Package
-Title: NCAA Basketball Data Analysis Functionality
+Title: NCAA Baseball Data Analysis Functionality
 Version: 0.1.0
-Author: Jake Flancer
-Maintainer: Jake Flancer <jflancer@wharton.upenn.edu>
-Description: This package gives users the ability to work with NCAA Basketball data in a clean and detailed manner.
+Author: Jackson Joffe
+Maintainer: Jackson Joffe <joffejsr@wharton.upenn.edu>
+Based on Work by: Jake Flancer <jflancer@wharton.upenn.edu>
+Description: This package gives users the ability to work with NCAA Baseball data in a clean and detailed manner.
     The functions included can retrieve and manipulate NCAA play-by-play data, giving users a variety of ways to find insights
-    about their favorite players and teams. An especially important feature is the ability to report who is on the court
-    at each event in the play-by-play, opening up many possible areas of analysis.
+    about their favorite players and teams. 
 License: What license is it under?
 Encoding: UTF-8
 Depends: R (>= 3.1.2)
