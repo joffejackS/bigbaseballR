@@ -1,17 +1,17 @@
-# bigballR
+# bigbaseballR
 
-###NOTE THIS DOCUMENTATION IS SLIGHTLY OUTDATED FOLLOWING THE LATEST PACKAGE UPDATE 1/13
+###NOTE THIS DOCUMENTATION IS SLIGHTLY OUTDATED 
 
-`bigballR` is an R package for working with NCAA Basketball data. This 
+`bigbaseballR` is an R package for working with NCAA Baseball data. This 
 package primarily revolves around the use of schedule, roster, and play-by-play data via stats.ncaa.com, and
-additionally has features to calculate lineups, on/off results, and player game and multi-game statistics.
+additionally has features to calculate many statistics.
 
 ## Installation
 
 First install the package `devtools` if you haven't already
 ``` r
 #install.packages("devtools")
-devtools::install_github("jflancer/bigballR")
+devtools::install_github("joffejackS/bigbaseballR")
 ```
 
 ## Functionality
