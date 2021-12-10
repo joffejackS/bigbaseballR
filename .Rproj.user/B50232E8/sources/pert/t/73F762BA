@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546751859202.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "605030517",
+    "id" : "73F762BA",
+    "lastKnownWriteTime" : 1571429412,
+    "last_content_update" : 1571513370520,
+    "path" : "~/Dropbox/ncaaR/bigballR/R/all_functions.R",
+    "project_path" : "R/all_functions.R",
+    "properties" : {
+        "cursorPosition" : "1158,4",
+        "scrollLine" : "246",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
